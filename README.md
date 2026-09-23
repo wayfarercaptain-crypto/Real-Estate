@@ -1,5 +1,7 @@
 # Real Estate
 
+> Global cross-project governance: read `CAPTAIN_BRAIN_GOVERNANCE.md` before substantive work. It carries the GitHub-first continuity, Hansel and Gretel preservation, thinking-level routing, and destructive-change rules.
+
 ## Status
 
 **LOCKED DIRECTION — 2026-09-05**
