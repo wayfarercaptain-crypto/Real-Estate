@@ -2,6 +2,8 @@
 
 > Global cross-project governance: read `CAPTAIN_BRAIN_GOVERNANCE.md` before substantive work. It carries the GitHub-first continuity, Hansel and Gretel preservation, thinking-level routing, and destructive-change rules.
 
+> **One Less Thing Protocol (OLT) — global rule:** Every solution should leave Captain with **less to maintain, less to troubleshoot and less to worry about**. Prefer the simplest proven workflow and a reliable manual fallback over unnecessary integrations, agents, accounts or automation. Evaluate ongoing upkeep and recovery before adding moving parts; make changes small and reversible. This complements, and does not weaken, safety, privacy, backups or approval gates. [Read the canonical protocol](https://github.com/wayfarercaptain-crypto/captain-brain/blob/main/ONE_LESS_THING_PROTOCOL.md).
+
 ## Status
 
 **LOCKED DIRECTION — 2026-09-05**
