@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **FOUNDER-WIDE PRODUCTIVE OUTPUT SOP (2026-11-03):** [Read the canonical Productive Output Standard](https://github.com/wayfarercaptain-crypto/captain-brain/blob/main/PRODUCTIVE_OUTPUT_STANDARD.md) before substantive work. Applies to every AI agent, task, README, nested file and future project: READ CURRENT TRUTH → DEFINE TESTABLE USABLE OUTCOME → EXECUTE → VERIFY → CAPTURE EVIDENCE → NEXT STEP. Research, drafts and status comments are NOT shipped value. Track acceptance criteria, L0 activity / L1 build / L2 usable / L3 real outcome, founder time and exact blockers. Preserve existing authority/privacy/rollback rules; never store customer PII in GitHub. This pointer governs future nested docs without rewriting history.
+
 # Real Estate
 
 > Global cross-project governance: read `CAPTAIN_BRAIN_GOVERNANCE.md` before substantive work. It carries the GitHub-first continuity, Hansel and Gretel preservation, thinking-level routing, and destructive-change rules.
